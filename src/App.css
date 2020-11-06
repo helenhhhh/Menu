@@ -1,0 +1,16 @@
+.cate_container{
+  float:left;
+  width:25%;
+  margin-right:10%;
+}
+.detail_contanier{
+  float:left;
+  width:60%;
+}
+li{
+  padding:5px;
+}
+li:hover{
+  border:1px solid grey;
+  cursor: default;
+}
